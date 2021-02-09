@@ -2,3 +2,4 @@
 Git is free software distributed under the GPL.
 nihapo
 lin cheng hao
+Git tracks changes.
